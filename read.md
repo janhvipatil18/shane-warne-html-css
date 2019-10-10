@@ -10,4 +10,4 @@ Shane Warne HTML-CSS Website.
 #Owner- 
   Hrithik Malvani
 #contributers-
-  Smith Gajjar ( @smithg09 ) 
+  janhvi patil(@janhvipatil18)
