@@ -1,0 +1,36 @@
+body{
+            background-image:url(#);
+            background-color: black;
+            background-position: center;
+            background-repeat: no-repeat; 
+        }
+p{
+	color:white;
+        }
+#topbox{
+	 width:100%;
+	 height:100px;
+}
+#mainlogo{
+	float:left;
+	margin-left:500px;
+}
+label{
+	color: white;
+}
+#top{
+	float:left;
+	 margin-left:20px; 
+}
+#mainbox{
+	display:flex;width:100%; margin-top: -30px;
+}
+#leftaside{
+	float:left; border-style: solid; width:375px; margin-left: 0px; border-color: white;
+}
+#rightaside{
+	float:right; border-style:solid; height:500px; width:360px; border-color: white;
+}
+.maintext{
+	display:flex; height:550px; width:978px ;
+}
